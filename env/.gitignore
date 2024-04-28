@@ -1,0 +1,7 @@
+*.pyc
+*.sqlite3
+.idea/*
+include
+lib
+scripts
+pyvenv.cfg
